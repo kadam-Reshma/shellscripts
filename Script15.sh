@@ -8,3 +8,6 @@ ashu
 weekend
 Happy evening!
 main
+mango
+apple
+banana

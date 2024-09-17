@@ -13,9 +13,10 @@ echo "Good morning"
 echo "changes for dev2"
 echo "I reshma learning devops"
 echo "GCP"
-<<<<<<< HEAD
-=======
+HEAD
 echo "Hi Vaishnavi"
->>>>>>> a12733b1f09acc0b956df0767b8e035924d01027
+a12733b1f09acc0b956df0767b8e035924d01027
 echo "mysunday"
+rk
 echo "mymonday""
+main
